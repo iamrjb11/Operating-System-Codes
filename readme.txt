@@ -1,6 +1,6 @@
 Operating System
 -----------------------
-Here all the codes are writting in c language.
+Here all the codes has written in c language.
 
 
 Author
